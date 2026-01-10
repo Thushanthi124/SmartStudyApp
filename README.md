@@ -115,7 +115,7 @@ It provides an interactive PDF and image reader with highlighting, bookmarking, 
 
 ## 👨‍💻 Developers
 
-**Name:** *[Archchika, Rahitha, Thilukshika, Thushanthy, Cavinaya, Thanusa]*
+**Names:** *[Archchika, Rahitha, Thilukshika, Thushanthy, Cavinaya, Thanusa]*
 **Project Type:** Academic Project
 **Repository:** SmartStudyApp
 
